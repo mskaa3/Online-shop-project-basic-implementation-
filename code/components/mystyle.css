@@ -1,0 +1,154 @@
+body{
+    background-color: #d3e8ff;
+    }
+    
+footer{
+        list-style: none;
+        display: block;
+        position: absolute;
+        bottom:0;
+        
+        padding: 0;
+            margin:0;
+            height: 70px;
+            width: 100%;
+            background: #124d77;
+         
+            display:inline-block;
+            /* background colour of the bar */
+        
+    }
+footer p{
+    text-align:center;
+        color: #ffffff;
+    }
+footer a{
+    text-align:center;
+        color:#d3e8ff;
+    }
+
+.button {
+    margin-top:300px;
+    margin: 0 auto;
+        box-shadow:inset 0px 2px 0px 0px #54a3f7;
+        background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+        background-color:#007dc1;
+        border-radius:3px;
+        border:1px solid #124d77;
+        display:block;
+        cursor:pointer;
+        color:#ffffff;
+        height:50px;
+        width:300px;
+        font-family:Arial;
+        font-size:14px;
+        padding:13px 76px;
+        text-decoration:none;
+        text-shadow:0px 3px 3px #154682;
+    }
+    .button:hover {
+        background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+        background-color:#0061a7;
+    }
+    .button:active {
+        position:relative;
+        top:1px;
+    }
+    .button7 {
+        display:auto;
+        margin-top: 1px;
+        margin-right: 2px;
+        height:40px;
+        width:200px;
+        font-size:12px;
+        padding:3px 76px;
+    }
+    .backButton{
+        display:auto;
+        margin-top: 1px;
+        margin-right: 2px;
+        height:40px;
+        width:200px;
+        font-size:12px;
+        padding:3px 76px;
+    }
+    .deleteForm select{
+        font-size:20px;
+            
+    }
+    .deleteForm input[type="Submit"]{
+        font-size:15px;
+        margin-top: 0;
+        height:27px;
+        width:200px;
+        box-shadow:inset 0px 2px 0px 0px #54a3f7;
+        background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+        background-color:#007dc1;
+        border-radius:3px;
+        border:1px solid #124d77;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+       
+        font-family:Arial;
+        font-size:14px;
+        margin-top: 148px;
+        text-decoration:none;
+        text-shadow:0px 3px 3px #154682
+        
+    }
+    .deleteForm input[value="Update"]{
+        font-size:15px;
+        height:27px;
+        width:200px;
+        box-shadow:inset 0px 2px 0px 0px #54a3f7;
+        background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+        background-color:#007dc1;
+        border-radius:3px;
+        border:1px solid #124d77;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+       
+        font-family:Arial;
+        font-size:14px;
+        /* margin-top: 500px;
+        margin-left: 500px; */
+        text-decoration:none;
+        text-shadow:0px 3px 3px #154682
+        
+    }
+    /* .container h1{
+        font-family:Arial;
+        margin-top: 100px;
+        font-size:70px;
+        margin-left:400px;
+    } */
+    .deleteHeader{
+        font-family:Arial;
+        margin-top: 100px;
+        font-size:30px;
+        margin-left:400px;
+    }
+    /* .rentHeader{
+        font-family:Arial;
+        margin-top: 100px;
+        font-size:70px;
+        margin-left:400px;
+    } */
+    .deleteForm{
+        margin: 0 auto; 
+        font-family:Arial;
+        margin-top: 148px;
+        font-size:19px;
+        
+        margin-left:530px;
+
+    }
+    
+    .deleteForm label{
+        margin-top: 150px;
+        font-size:20px;
+        margin-left:350px;
+    }
+   
